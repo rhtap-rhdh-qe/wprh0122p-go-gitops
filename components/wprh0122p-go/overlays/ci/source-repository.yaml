@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wprh0122p-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wprh0122p-go
